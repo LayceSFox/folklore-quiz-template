@@ -1,0 +1,282 @@
+{
+  "creatures": {
+
+    "kelpie": {
+
+      "name": "The Kelpie",
+
+      "emoji": "🐴",
+
+      "origin": "Scottish Folklore",
+
+      "element": "Water",
+
+      "realm": "Ancient Rivers, Lochs, and Misty Waters",
+
+      "title": "The Wild Spirit of the Waters",
+
+      "shortDescription": 
+      "A mysterious and powerful spirit connected to untamed waters, transformation, and hidden depths.",
+
+
+      "personalityTraits": [
+        "Independent",
+        "Adventurous",
+        "Protective",
+        "Strong-willed",
+        "Mysterious"
+      ],
+
+
+      "magicalStrengths": [
+        "Transformation",
+        "Adaptability",
+        "Deep intuition",
+        "Connection to nature",
+        "Fearless exploration"
+      ],
+
+
+      "shadowTraits": [
+        "Guarded",
+        "Stubborn",
+        "Slow to trust",
+        "Can become distant when hurt"
+      ],
+
+
+      "resultMessage":
+      "You are the Kelpie spirit. Like the legendary water beings of Scottish folklore, you are wild, adaptable, and impossible to forget. You carry a powerful presence and a deep connection to the mysteries hidden beneath the surface.",
+
+
+      "collectorCard": {
+
+        "rarity": "Ancient Spirit",
+
+        "quote":
+        "The waters remember every secret whispered beneath the moon.",
+
+        "artPrompt":
+        "A majestic black water horse emerging from a mist-covered Scottish loch, glowing silver eyes, Celtic folklore atmosphere, moonlight reflecting on dark waters, fantasy watercolor style"
+
+      },
+
+
+      "image":
+      "images/creatures/kelpie.jpg"
+
+    },
+
+
+
+
+    "banshee": {
+
+      "name": "The Banshee",
+
+      "emoji": "👻",
+
+      "origin": "Irish Folklore",
+
+      "element": "Spirit",
+
+      "realm": "Ancient Hills, Sacred Lands, and Forgotten Places",
+
+      "title": "The Whisperer Between Worlds",
+
+
+      "shortDescription":
+      "A spirit associated with intuition, memory, ancestral connection, and unseen truths.",
+
+
+      "personalityTraits": [
+        "Wise",
+        "Intuitive",
+        "Empathetic",
+        "Observant",
+        "Deeply emotional"
+      ],
+
+
+      "magicalStrengths": [
+        "Spirit communication",
+        "Truth sensing",
+        "Ancient wisdom",
+        "Emotional understanding",
+        "Memory magic"
+      ],
+
+
+      "shadowTraits": [
+        "Carries the weight of others",
+        "Sensitive to energy",
+        "Can become overwhelmed",
+        "Keeps feelings hidden"
+      ],
+
+
+      "resultMessage":
+      "You are the Banshee spirit. Like the ancient bean sí of Irish legend, you possess the gift of sensing what others miss. You are a keeper of memories, secrets, and stories that deserve to be remembered.",
+
+
+      "collectorCard": {
+
+        "rarity": "Forgotten Guardian",
+
+        "quote":
+        "Some voices are not warnings. Some are reminders of what we must never forget.",
+
+        "artPrompt":
+        "An ethereal Irish banshee spirit with flowing silver hair, standing among ancient ruins surrounded by mist, Celtic symbols glowing softly, haunting but beautiful fantasy watercolor style"
+
+      },
+
+
+      "image":
+    "images/creatures/banshee.jpg"
+
+    },
+
+
+
+
+    "pooka": {
+
+      "name": "The Pooka",
+
+      "emoji": "🦊",
+
+      "origin": "Irish Folklore",
+
+      "element": "Wild Magic",
+
+      "realm": "Hidden Forest Paths and Enchanted Crossroads",
+
+      "title": "The Trickster of Endless Possibility",
+
+
+      "shortDescription":
+      "A shapeshifting spirit known for cleverness, curiosity, humor, and unexpected wisdom.",
+
+
+      "personalityTraits": [
+        "Creative",
+        "Playful",
+        "Curious",
+        "Clever",
+        "Unpredictable"
+      ],
+
+
+      "magicalStrengths": [
+        "Shapeshifting",
+        "Illusions",
+        "Problem solving",
+        "Adaptability",
+        "Finding hidden opportunities"
+      ],
+
+
+      "shadowTraits": [
+        "Restless",
+        "Easily distracted",
+        "Avoids routine",
+        "Likes testing boundaries"
+      ],
+
+
+      "resultMessage":
+      "You are the Pooka spirit. Like the mysterious shapeshifters of Irish folklore, you bring laughter, imagination, and unexpected magic wherever you wander. Life is never ordinary when you are near.",
+
+
+      "collectorCard": {
+
+        "rarity": "Trickster Spirit",
+
+        "quote":
+        "The greatest magic often begins with a little mischief.",
+
+        "artPrompt":
+        "A magical foxlike Pooka spirit standing in an enchanted Irish forest, glowing eyes, playful expression, Celtic runes, whimsical dark fantasy watercolor style"
+
+      },
+
+
+      "image":
+    "images/creatures/pooka.jpg"
+
+    },
+
+
+
+
+    "selkie": {
+
+      "name": "The Selkie",
+
+      "emoji": "🦭",
+
+      "origin": "Scottish and Irish Coastal Folklore",
+
+      "element": "Ocean",
+
+      "realm": "Stormy Shores and Moonlit Seas",
+
+      "title": "The Wanderer Between Worlds",
+
+
+      "shortDescription":
+      "A seal spirit connected to freedom, belonging, emotion, and the mysteries of the sea.",
+
+
+      "personalityTraits": [
+        "Compassionate",
+        "Dreamy",
+        "Loyal",
+        "Romantic",
+        "Free-spirited"
+      ],
+
+
+      "magicalStrengths": [
+        "Healing",
+        "Emotional wisdom",
+        "Ocean connection",
+        "Storytelling",
+        "Finding home anywhere"
+      ],
+
+
+      "shadowTraits": [
+        "Feels torn between worlds",
+        "Longs for adventure",
+        "Can hide sadness",
+        "Fears losing freedom"
+      ],
+
+
+      "resultMessage":
+      "You are the Selkie spirit. Like the seal folk of coastal legends, you carry the magic of two worlds. Your heart seeks adventure, deep connections, and a place where you truly belong.",
+
+
+      "collectorCard": {
+
+        "rarity": "Oceanic Legend",
+
+        "quote":
+        "The sea calls to those whose hearts remember where they came from.",
+
+        "artPrompt":
+        "A mystical selkie standing on a moonlit Scottish shore, silver ocean waves behind them, seal skin cloak nearby, Celtic fantasy watercolor style"
+
+      },
+
+
+      "image":
+      "images/creatures/selkie.jpg"
+
+    }
+
+  }
+
+}
